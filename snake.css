@@ -4,7 +4,7 @@
 }
 
 .body {
-    background: url("images/naagin.jpg");
+    background: url("naagin.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
     display: flex;
